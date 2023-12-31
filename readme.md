@@ -1,1 +1,1 @@
-void
+from scratch
